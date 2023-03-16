@@ -1,2 +1,2 @@
-# WebuniC-Bevezetes
+# WebuniCsharpBevezetes
 Webuni C# bevezetés tanfolyam
