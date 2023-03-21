@@ -1,0 +1,15 @@
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.exe
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.deps.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.runtimeconfig.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.csproj.AssemblyReference.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.AssemblyInfoInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.AssemblyInfo.cs
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.csproj.CoreCompileInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\refint\StatStrHlp.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.genruntimeconfig.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Osztalyos\StatStrHlp\obj\Debug\net6.0\ref\StatStrHlp.dll
