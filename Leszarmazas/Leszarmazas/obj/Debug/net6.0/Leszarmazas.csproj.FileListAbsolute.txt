@@ -1,0 +1,15 @@
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.exe
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.deps.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.runtimeconfig.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.csproj.AssemblyReference.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.AssemblyInfoInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.AssemblyInfo.cs
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.csproj.CoreCompileInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\refint\Leszarmazas.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.genruntimeconfig.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Leszarmazas\Leszarmazas\obj\Debug\net6.0\ref\Leszarmazas.dll
