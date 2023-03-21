@@ -1,0 +1,12 @@
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.deps.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.csproj.AssemblyReference.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.AssemblyInfoInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.AssemblyInfo.cs
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.csproj.CoreCompileInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\refint\DaraboloOsztalyLib.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\Darabolo\DaraboloOsztalyLib\obj\Debug\net6.0\ref\DaraboloOsztalyLib.dll

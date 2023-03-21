@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darabolo", "Darabolo\Darabolo.csproj", "{ABFD3A72-2C11-4034-8263-84B0CE40A68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaraboloOsztalyLib", "DaraboloOsztalyLib\DaraboloOsztalyLib.csproj", "{74B79137-6C1F-43F8-8C39-BB772A8C3EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFD3A72-2C11-4034-8263-84B0CE40A68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFD3A72-2C11-4034-8263-84B0CE40A68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFD3A72-2C11-4034-8263-84B0CE40A68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFD3A72-2C11-4034-8263-84B0CE40A68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B79137-6C1F-43F8-8C39-BB772A8C3EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B79137-6C1F-43F8-8C39-BB772A8C3EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B79137-6C1F-43F8-8C39-BB772A8C3EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B79137-6C1F-43F8-8C39-BB772A8C3EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D031C51-552F-4C54-B2FF-21A5CF6F578B}
+	EndGlobalSection
+EndGlobal
