@@ -1,0 +1,15 @@
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\bin\Debug\net6.0\ComputerRegister.exe
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\bin\Debug\net6.0\ComputerRegister.deps.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\bin\Debug\net6.0\ComputerRegister.runtimeconfig.json
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\bin\Debug\net6.0\ComputerRegister.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\bin\Debug\net6.0\ComputerRegister.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.csproj.AssemblyReference.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.AssemblyInfoInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.AssemblyInfo.cs
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.csproj.CoreCompileInputs.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\refint\ComputerRegister.dll
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.pdb
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ComputerRegister.genruntimeconfig.cache
+C:\Users\Kolos\Documents\Webuni\WebuniCsharpBevezetes\ComputerRegister\ComputerRegister\obj\Debug\net6.0\ref\ComputerRegister.dll
