@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Hipi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Hipi\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Users\\Kolos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kolos\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

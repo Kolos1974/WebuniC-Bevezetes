@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><Valasztok xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><ValasztoLista><Valaszto><Nev>Peti</Nev><Noe>false</Noe><Szev>1999</Szev><Varos>BP</Varos></Valaszto><Valaszto><Nev>Kati</Nev><Noe>true</Noe><Szev>2002</Szev><Varos>Érd</Varos></Valaszto><Valaszto><Nev>Laci</Nev><Noe>false</Noe><Szev>2022</Szev><Varos>Bicske</Varos></Valaszto><Valaszto><Nev>Sanyi</Nev><Noe>false</Noe><Szev>2000</Szev><Varos>Batta</Varos></Valaszto><Valaszto><Nev>Anna</Nev><Noe>true</Noe><Szev>1989</Szev><Varos>Bp</Varos></Valaszto></ValasztoLista></Valasztok>
+<?xml version="1.0" encoding="utf-8"?>
+<Valasztok xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ValasztoLista>
+    <Valaszto>
+      <Nev>ronald</Nev>
+      <Noe>false</Noe>
+      <Szev>1900</Szev>
+      <Varos />
+    </Valaszto>
+    <Valaszto>
+      <Nev>bush</Nev>
+      <Noe>false</Noe>
+      <Szev>1900</Szev>
+      <Varos />
+    </Valaszto>
+    <Valaszto>
+      <Nev>obama</Nev>
+      <Noe>false</Noe>
+      <Szev>1960</Szev>
+      <Varos>err</Varos>
+    </Valaszto>
+  </ValasztoLista>
+</Valasztok>
